@@ -3,7 +3,7 @@ import { Student, Company, Government, Internship, Application, Analytics } from
 export const mockStudents: Student[] = [
   {
     id: 'student1',
-    name: 'Priya Sharma',
+    name: 'Priya Kumari',
     email: 'priya@example.com',
     phone: '+91-9876543210',
     aadhaar: '1234-5678-9012',
